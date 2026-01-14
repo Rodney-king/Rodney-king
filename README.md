@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rodney-king
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m currently learning ...AI
 - 💞️ I’m looking to collaborate on ...projects involving Java
-- 📫 How to reach me ...@rusty_spok3s'Insta' krodney552@gmail.com'mail'
+- 📫 How to reach me ...@__byrodney'Insta' krodney552@gmail.com'mail'
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Dream Chaser
 
